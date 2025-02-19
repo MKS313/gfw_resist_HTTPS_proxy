@@ -1,3 +1,9 @@
+# آپدیت 8-3-1403 : آپدیت پارامترهای فرگمنت
+از آنجایی که تکنولوژی فرگمنت در هسته 1.8.3 xray پیاده سازی شده ، با افزودن [این کانفیگ serverless_TLSFrag_xray.json](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy/blob/main/ServerLess_TLSFrag_Xray_Config.json) یا [این کانفیگ با پارامترهای جدید serverless_TLSFrag_xray_new.json](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy/blob/main/ServerLess_TLSFrag_Xray_Config_New.json) در هر کلاینت با هسته 1.8.3 به بالا میتوانید از یوتیوب بصورت مستقیم و بدون سرور واسطه استفاده کنید<p>
+credit: alidxdy , rrouzbeh
+# آپدیت 7-4-1402 : اینترنت برای نیازمندان
+فاز اول پروژه [MahsaNG](https://github.com/GFW-knocker/MahsaNG) منتشر شد. [دانلود آخرین نسخه اندروید](https://github.com/GFW-knocker/MahsaNG/releases/latest) . در این نسخه **کانفیگ های رایگان v2ray** برای عموم مردم ارائه شده و همچنین **یوتیوب و توییتر و برخی دیگر از سرویس ها** بصورت مستقیم آزاد شدند. در فاز بعدی با گسترش شبکه مهسا ، کانفیگ های چرخشی به تعداد انبوه و مجهز به پایشگر اتومات ارائه خواهد شد. MahsaNG قسمت کلاینت پروژه [Segaro Dream](https://github.com/GFW-knocker/Segaro_Dream) است.
+
 # آپدیت 22-3-1402
 - یوتیوب ، گوگل پلی ، اینستاگرام ، واتساپ و توییتر به صورت مستقیم آزاد شد
 - از نسخه pyprox_HTTPS_v3.0.py استفاده کنید
